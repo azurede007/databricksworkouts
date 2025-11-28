@@ -1,0 +1,3 @@
+delta:
+  offset_table: "etl_offset"
+  database: "inceptez_catalog.insurancedb"
